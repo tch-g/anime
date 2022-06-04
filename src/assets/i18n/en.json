@@ -1,0 +1,19 @@
+{
+    "TITLE": "Animation Catalogue",
+    "SIGN_IN": "Sign In",
+    "SIGN_UP": "Sign Up",
+    "EMAIL_ADDRESS": "Email address",
+    "PASSWORD": "Password",
+    "REPEAT_PASSWORD": "Repeat Password",
+    "NOT_FOUND": "Page Not Found",
+    "ANIME_CATALOGUE": "Welcome to Animation Catalogue",
+    "YOU_CAN_ADD": "You can add your favourite Animation with rating and reviews.",
+    "ADD_ANIME": "Add Animation",
+    "SIGN_OUT": "Sign Out",
+    "ADD_ANIMATION": "Add Animation",
+    "SEARCH": " Search",
+    "ENTER_ANIME_NAME": "Enter Anime Name",
+    "MUST_ENTER_ANIME": "You Must Enter Anime Name!"
+
+
+}
